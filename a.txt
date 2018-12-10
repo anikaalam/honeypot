@@ -1,0 +1,15 @@
+
+
+which honey pots deployed?
+Dinonaea with HTTP
+
+issues encoutered?
+doing the installation, I had issues with the google cloud platform .
+
+summary:
+more than thousand countries attacked my server after only a few minutes.
+Countries like usa, germany were most attacks. I was abale to view the attacks on my server 
+
+
+
+
